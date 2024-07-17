@@ -1,0 +1,62 @@
+html{
+  background-color: black;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: black;
+}
+
+code {
+  font-family: 'Courier New',
+    monospace;
+}
+
+.mainBody {
+  background-color: #000000;
+  font-family: 'Courier New';
+}
+
+#topTenHeader{
+  text-align: left;
+}
+
+.rowItem{
+  align-content: center;
+  align-self: center;
+  text-align: center;
+  align-items: center;
+  color: white;
+}
+
+
+.topTenMember{
+  padding: 5px;
+  border-style: solid;
+  border-width: 1px;
+  margin: 20px;
+}
+
+.topTenTable{
+  align-self: center;
+  width: 100;
+  display: block;
+  margin-left: 100px;
+}
+
+.Header {
+  align-content: center;
+  text-align: center;
+  align-self: center;
+  width: 100;
+  align-items: center;
+  font-size: 40px;
+  font-weight: lighter;
+  color: #FFFFFF;
+  padding-top: 40px;
+}

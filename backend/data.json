@@ -1,0 +1,45 @@
+{
+    "topTen": [
+        {
+            "ticker": " GME ",
+            "occur": 496
+        },
+        {
+            "ticker": " PLTR ",
+            "occur": 423
+        },
+        {
+            "ticker": " SNDL ",
+            "occur": 423
+        },
+        {
+            "ticker": " AMC ",
+            "occur": 322
+        },
+        {
+            "ticker": " APHA ",
+            "occur": 241
+        },
+        {
+            "ticker": " TLRY ",
+            "occur": 194
+        },
+        {
+            "ticker": " BB ",
+            "occur": 94
+        },
+        {
+            "ticker": " DD ",
+            "occur": 57
+        },
+        {
+            "ticker": " RH ",
+            "occur": 53
+        },
+        {
+            "ticker": " TSLA ",
+            "occur": 47
+        }
+    ],
+    "sentiment": null
+}
